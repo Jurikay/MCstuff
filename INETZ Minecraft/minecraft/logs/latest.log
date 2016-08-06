@@ -1,0 +1,65 @@
+[12:43:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:43:23] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:43:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:43:23] [main/INFO]: Forge Mod Loader version 12.18.1.2011 for Minecraft 1.10.2 loading
+[12:43:23] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_91, running on Mac OS X:x86_64:10.11.6, installed at /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+[12:43:23] [main/WARN]: The coremod lumien.custommainmenu.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:43:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:43:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:43:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:43:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:43:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:43:25] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[12:43:25] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[12:43:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:43:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:43:25] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:43:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:43:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:43:26] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:43:26] [Client thread/INFO]: Setting user: Jureklol
+[12:43:28] [Client thread/WARN]: Skipping bad option: lastServer:
+[12:43:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:43:28] [Client thread/INFO]: MinecraftForge v12.18.1.2011 Initialized
+[12:43:29] [Client thread/INFO]: Replaced 233 ore recipes
+[12:43:29] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[12:43:29] [Client thread/INFO]: Searching /Users/jurekbaumann/Downloads/mmc-stable-osx64/MultiMC/MultiMC.app/Contents/MacOS/instances/INETZ Minecraft/minecraft/mods for mods
+[12:43:30] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[12:43:30] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, BiomesOPlenty, CustomMainMenu] at CLIENT
+[12:43:30] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, BiomesOPlenty, CustomMainMenu] at SERVER
+[12:43:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Custom Main Menu
+[12:43:30] [Client thread/INFO]: Processing ObjectHolder annotations
+[12:43:30] [Client thread/INFO]: Found 423 ObjectHolder annotations
+[12:43:30] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[12:43:30] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[12:43:30] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[12:43:30] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12:43:30] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[12:43:32] [Client thread/INFO]: Applying holder lookups
+[12:43:32] [Client thread/INFO]: Holder lookups applied
+[12:43:32] [Client thread/INFO]: Injecting itemstacks
+[12:43:32] [Client thread/INFO]: Itemstack injection complete
+[12:43:32] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:43:33] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[12:43:33] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:43:33] [Thread-6/INFO]: OpenAL initialized.
+[12:43:33] [Sound Library Loader/INFO]: Sound engine started
+[12:43:34] [Client thread/INFO]: Max texture size: 16384
+[12:43:34] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:43:35] [Client thread/INFO]: Injecting itemstacks
+[12:43:35] [Client thread/INFO]: Itemstack injection complete
+[12:43:35] [Client thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+[12:43:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Custom Main Menu
+[12:43:35] [Client thread/INFO]: SoundSystem shutting down...
+[12:43:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:43:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:43:36] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[12:43:36] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:43:36] [Thread-8/INFO]: OpenAL initialized.
+[12:43:36] [Sound Library Loader/INFO]: Sound engine started
+[12:43:37] [Client thread/INFO]: Max texture size: 16384
+[12:43:37] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[12:43:38] [Client thread/WARN]: Skipping bad option: lastServer:
+[12:43:49] [Client thread/INFO]: Stopping!
+[12:43:49] [Client thread/INFO]: SoundSystem shutting down...
+[12:43:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
